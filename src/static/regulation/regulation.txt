@@ -1,0 +1,688 @@
+<p>Ứng dụng Glow là sàn thương mại điện tử phục vụ nhu cầu kết nối giữa người
+      cung cấp dịch vụ Spa, Massage, Trị liệu, Làm đẹp,... và người có nhu cầu
+      sử dụng dịch vụ Spa - Làm đẹp,... Ứng dụng Glow được xây dựng nhằm hỗ trợ
+      tối đa cho người dùng muốn tìm hiểu thông tin trực tuyến về nhiều loại
+      dịch vụ khác nhau hoặc có nhu cầu đặt lịch sử dụng dịch vụ trực tuyến..</p>
+<b>I. Nguyên tắc chung</b>
+<p>
+          Sàn giao dịch điện tử Glow do CÔNG TY CỔ PHẦN CÔNG NGHỆ BK VIỆT NAM
+          (Công ty) thực hiện hoạt động và vận hành. Người dùng trên sàn giao
+          dịch điện tử là các thương nhân, tổ chức có hoạt động kinh doanh dịch
+          vụ Spa, Massage hợp pháp được Glow chính thức công nhận và được phép
+          sử dụng dịch vụ do Sàn giao dịch Thương mại điện tử Glow và các bên
+          liên quan cung cấp.
+        </p>
+        <p>
+          Nguyên tắc này áp dụng cho các người dùng đăng ký sử dụng, tham gia
+          đăng tin được thực hiện trên Sàn giao dịch Thương mại điện tử Glow.
+        </p>
+        <p>
+          Thương nhân, tổ chức, cá nhân tham gia giao dịch tại Sàn giao dịch
+          Thương mại điện tử Glow tự do thỏa thuận trên cơ sở tôn trọng quyền và
+          lợi ích hợp pháp của các bên tham gia hoạt động sử dụng dịch vụ thông
+          qua hợp đồng, không trái với quy định pháp luật.
+        </p>
+        <p>
+          Thông tin về thương nhân, tổ chức, tham gia là thành viên trên Glow
+          phải minh bạch và chính xác.
+        </p>
+        <p>
+          Dịch vụ tham gia giao dịch trên Sàn giao dịch Thương mại điện tử Glow
+          phải đáp ứng đầy đủ các quy định của pháp luật có liên quan, không
+          thuộc các trường hợp cấm kinh doanh, cấm quảng cáo theo quy định của
+          pháp luật.
+        </p>
+        <p>
+          Giao dịch qua Sàn giao dịch Thương mại điện tử Glow phải được thực
+          hiện công khai, minh bạch, đảm bảo quyền lợi của khách hàng/người sử
+          dụng dịch vụ.
+        </p>
+        <p>
+          Tất cả các nội dung trong Quy chế này phải tuân thủ theo hệ thống pháp
+          luật hiện hành của Việt Nam. Người dùng khi tham gia vào Sàn giao dịch
+          TMĐT Glow phải tự tìm hiểu trách nhiệm pháp lý của mình đối với luật
+          pháp hiện hành của Việt Nam và cam kết thực hiện đúng những nội dung
+          trong Quy chế của Sàn giao dịch TMĐT Glow.
+        </p>
+<b>II. Quy định chung</b>
+<p>Tên Giao dịch Thương mại Điện tử: Sàn giao dịch TMĐT Glow do CÔNG TY CỔ
+        PHẦN CÔNG NGHỆ BK VIỆT NAM phát triển với tên ứng dụng Sàn giao dịch là:
+        Glow (sau đây gọi tắt là: “Glow”).</p>
+p>Định nghĩa chung:</p>
+        <p>
+          - Kỹ thuật viên: Là người có nhu cầu cung cấp dịch vụ của Glow bao
+          gồm: đăng thông tin về dịch vụ Spa, Massage.
+        </p>
+        <p>
+          - Khách hàng (khách hàng/người dùng): Là thương nhân, tổ chức, cá nhân
+          có nhu cầu sử dụng dịch vụ được đăng tải trên Glow.
+        </p>
+        <p>
+          - Thành viên: Là bao gồm cả kỹ thuật viên lẫn khách hàng (Kỹ thuật
+          viên và Khách hàng)
+        </p>
+        <p>
+          Khi Thành viên tham gia giao dịch trên Glow là thương nhân, tổ chức,
+          cá nhân có nhu cầu sử dụng dịch vụ trên website. Thành viên phải đăng
+          ký kê khai ban đầu các thông tin cá nhân có liên quan, được Ban quản
+          lý Glow chính thức công nhận và được phép sử dụng dịch vụ do Glow cung
+          cấp.
+
+          <br />Khi bạn đăng ký là thành viên của Glow, thành viên hiểu rằng:
+        </p>
+        <p>
+          - Thành viên có thể tạo một tài khoản cá nhân của mình để sử dụng.
+        </p>
+        <p>
+          - Thành viên có thể đặt lịch để dịch vụ theo đúng giá và quy chuẩn
+          theo đúng cam kết của thương nhân hợp pháp đã công bố trên Glow.
+        </p>
+        <p>
+          Nội dung bản Quy chế này tuân thủ theo các quy định hiện hành của Việt
+          Nam. Thành viên khi tham gia vào Glow phải tự tìm hiểu trách nhiệm
+          pháp lý của mình đối với luật pháp hiện hành của Việt Nam và cam kết
+          thực hiện đúng những nội dung trong Glow.
+        </p>
+        <b>III. Quy trình giao dịch</b>
+        <p><strong>1. Quy trình dành cho khách hàng </strong></p>
+        <p>
+          Khi có nhu cầu mua hàng trên Glow khách hàng nên thực hiện các bước
+          sau đây: Tìm kiếm, tham khảo thông tin dịch vụ
+        </p>
+        <p>
+          Khách hàng sẽ được lựa chọn và đặt lịch theo thông tin của các Kỹ
+          thuật viên, sau khi lựa chọn xong nhấn vào nút đặt lịch, điền thông
+          tin và tiến hành thanh toán
+        </p>
+        <p>
+          Kỹ thuật viên sẽ tiến hành liên hệ khách hàng để xác nhận lịch.
+        </p>
+        <p><strong>2. Quy trình dành cho khách hàng </strong></p>
+        <p><strong>2.1. Tạo tài khoản</strong></p>
+        <p>
+          <strong>- Đăng ký tài khoản:</strong> Kỹ thuật viên đăng ký tài khoản
+          trên ứng dụng Glow.
+        </p>
+        <p>
+          Kỹ thuật viên vào phần đăng ký để đăng ký trở thành kỹ thuật viên
+        </p>
+        <p>
+          Kỹ thuật viên điền đầy đủ thông tin cá nhân
+        </p>
+        <p>
+          Chọn Lưu để lưu thông tin cá nhân.
+        </p>
+        <p>
+          Ban quản trị có công tác hậu kiểm kết hợp với công cụ lọc từ khóa để
+          kiểm duyệt các thông tin của Người dùng, Kỹ thuật viên
+        </p>
+        <p><strong>3. Chính sách đổi trả, hoàn tiền</strong></p>
+        <p>
+          Glow không phải là người cung cấp dịch vụ nên việc đổi trả dịch vụ sẽ
+          được thực hiện theo chính sách của từng Kỹ thuật viên .
+        </p>
+        <p>
+          Glow yêu cầu Kỹ thuật viên khi đăng thông tin về dịch vụ phải đưa đầy
+          đủ thông tin về dịch vụ.
+        </p>
+        <p>
+          Glow khuyến cáo người dùng phải đọc kỹ thông tin, hoặc gọi điện trực
+          tiếp cho kỹ thuật viên tìm hiểu về dịch vụ trước khi tiến hành đặt
+          lịch.
+        </p>
+        <p>
+          Kỹ thuật viên sẽ tiến hành liên hệ khách hàng để xác nhận lịch.
+        </p>
+        <p>
+          Glow sẽ hỗ trợ người dùng trong khả năng cho phép về việc đổi, hoàn
+          tiền.
+        </p>
+        <p>
+          <strong>4. Quy trình hỗ trợ giải quyết tranh chấp, khiếu nại</strong>
+        </p>
+        <p>
+          <br />Bước 1: Thành viên người dùng khiếu nại về dịch vụ của Kỹ thuật
+          viên qua email: binh.do@glowvietnam.com, Thành viên người dùng có thể
+          phản ánh trực tiếp đến đển ban quản trị. CÔNG TY CỔ PHẦN CÔNG NGHỆ BK
+          VIỆT NAM <br />Bước 2: Bộ phận Chăm Sóc Khách Hàng của Glow sẽ tiếp
+          nhận các khiếu nại của thành viên người dùng, tùy theo tính chất và
+          mức độ của khiếu nại thì bên Glow, sẽ có những biện pháp cụ thể hỗ trợ
+          người dùng để giải quyết tranh chấp đó. <br />Bước 3: Trong trường hợp
+          nằm ngoài khả năng và thẩm quyền của Glow thì Ban quản trị sẽ yêu cầu
+          khách hàng đưa vụ việc này ra cơ quan nhà nước có thẩm quyền giải
+          quyết theo pháp luật. <br />Người dùng gửi khiếu nại tại địa chỉ :
+          <br />CÔNG TY CỔ PHẦN CÔNG NGHỆ BK VIỆT NAM <br />Địa chỉ: Tầng 14, số
+          169 Nguyễn Ngọc Vũ, Phường Trung Hoà, Quận Cầu Giấy, Thành phố Hà Nội,
+          Việt Nam <br />Tel: 0888129100 <br />Email: binh.do@glowvietnam.com
+          <br />Quy định khiếu nại, cảnh báo, tranh chấp <br />Tất cả các bài
+          đăng phải đủ các điều kiện dưới đây nếu không sẽ bị khóa: <br />Đối
+          tượng bị phản ánh là thành viên Glow; <br />Sự việc phải liên quan đến
+          bài viết của thành viên đó trên Glow; <br />Phải có bằng chứng cụ thể;
+          <br />Không có ngôn từ xúc phạm, chửi tục, hăm dọa; <br />Khi khiếu
+          nại phải đưa ra bằng chứng cụ thể, rõ ràng, đồng thời phải có :
+          <br />Tài khoản của người khiếu nại. <br />Đường liên kết dẫn chứng
+          liên quan <br />Glow tôn trọng và nghiêm túc thực hiện các quy định
+          của pháp luật về bảo vệ quyền lợi của khách hàng (người dùng). Vì vậy,
+          đề nghị các thành viên đăng tin dịch vụ trên sàn cung cấp đầy đủ,
+          chính xác, trung thực và chi tiết các thông tin liên quan đến dịch vụ.
+          Mọi hành vi lừa đảo, gian lận trong kinh doanh đều bị lên án và phải
+          chịu hoàn toàn trách nhiệm trước pháp luật. <br />Các bên bao gồm Kỹ
+          thuật viên, Người dùng sẽ phải có vai trò trách nhiệm trong việc tích
+          cực giải quyết vấn đề. Đối với Kỹ thuật viên cần có trách nhiệm cung
+          cấp văn bản giấy tờ chứng thực thông tin liên quan đến sự việc đang
+          gây mâu thuẫn cho Người dùng . Đối với Glow sẽ có trách cung cấp những
+          thông tin liên quan đến Người dùng và Kỹ thuật viên nếu được người
+          dùng hoặc người liên quan đến tranh chấp đó yêu cầu. <br />Sau khi Kỹ
+          thuật viên, người dùng đã giải quyết xong tranh chấp phải có trách
+          nhiệm thông báo lại cho ban quản trị Glow. Trong trường hợp giao dịch
+          phát sinh mâu thuẫn mà lỗi thuộc về Kỹ thuật viên Glow sẽ có biện pháp
+          cảnh cáo, khóa tài khoản hoặc chuyển cho cơ quan pháp luật có thẩm
+          quyền tùy theo mức độ của sai phạm Glow sẽ chấm dứt và gỡ bỏ toàn bộ
+          thông tin về dịch vụ của Kỹ thuật viên đó trên Glow đồng thời yêu cầu
+          Kỹ thuật viên bồi hoàn cho khách hàng thỏa đáng trên cơ sở thỏa thuận
+          với người dùng. <br />Nếu thông qua hình thức thỏa thuận mà vẫn không
+          thể giải quyết được mâu thuẫn phát sinh tử giao dịch giữa hai bên
+          Người dùng, Kỹ thuật viên, thì một trong hai bên Người dùng và Kỹ
+          thuật viên sẽ có quyền nhờ đến cơ quan pháp luật có thẩm quyền can
+          thiệp nhằm đảm bảo lợi ích hợp pháp của các bên nhất là cho người
+          dùng.
+        <b>IV. Quy trình thanh toán</b>
+        <p>
+          <strong
+            >1. Thanh toán % chiết khấu đơn hàng giữa Kỹ thuật viên và chủ sở
+            hữu Sàn giao dịch Glow</strong
+          >
+          <br />Đối với Kỹ thuật viên (người cung cấp dịch vụ): Với mỗi đơn hàng
+          thành công trên hệ thống Glow, Glow sẽ thu phí % từ người dùng cung
+          cấp dịch vụ. Khoản phí là rất quan trọng với Glow để duy trì hệ thống
+          và quảng bá thương hiệu.
+        </p>
+        <p>
+          <strong>2. Thanh toán giữa Người dùng và Kỹ thuật viên</strong>
+          <br />Người dùng và Kỹ thuật viên thực hiện các thanh toán thông qua
+          Glow và theo các phương thức thanh toán do Glow quy định. <br />Khách
+          hàng có thể thanh toán qua ví Glow <br />Đối với Kỹ thuật viên (người
+          cung cấp dịch vụ): Với mỗi đơn hàng thành công trên hệ thống Glow,
+          Glow sẽ thu phí % từ người dùng cung cấp dịch vụ. Khoản phí là rất
+          quan trọng với Glow để duy trì hệ thống và quảng bá thương hiệu.
+          <br />Đối với phương thức thanh toán bằng ví điện tử, Khách hàng sẽ
+          nạp tiền vào ví VNĐ, Bấm vào nạp tiền, giao diện nạp tiền bao gồm giá
+          trị nạp và hình thức nạp tiền (qua Chuyển khoản ngân hàng, Visa) Nếu
+          muốn rút tiền từ ví Quý khách vui lòng liên hệ CÔNG TY CỔ PHẦN CÔNG
+          NGHỆ BK VIỆT NAM. <br />Địa chỉ: Tầng 14, số 169 Nguyễn Ngọc Vũ,
+          Phường Trung Hoà, Quận Cầu Giấy, Thành phố Hà Nội, Việt Nam
+        </p>
+        <p>
+          <strong>3. Đảm bảo an toàn giao dịch</strong> <br />Để đảm bảo các
+          giao dịch được tiến hành thành công, hạn chế tối đa rủi ro có thể phát
+          sinh. <br />Kỹ thuật viên phải cung cấp thông tin đầy đủ (tên, địa
+          chỉ, số điện thoại, email) trên phần thông tin cá nhân. <br />Người
+          dùng không nên đưa thông tin chi tiết về việc thanh toán với bất kỳ ai
+          bằng email hoặc hình thức liên lạc khác, Glow không chịu trách nhiệm
+          về những thiệt hạy hay rủi ro người dùng có thể gánh chịu trong việc
+          trao đổi thông tin của người dùng qua Internet hoặc email. <br />Người
+          dùng tuyệt đối không sử dụng bất kỳ chương trình, công cụ hay hình
+          thức nào khác để can thiệp vào hệ thống hay làm thay đổi cấu trúc dữ
+          liệu. Nghiêm cấm việc phát tán, truyền bá hay cổ vũ cho bất kỳ hoạt
+          động nào nhằm can thiệp, phá hoại hay xâm nhập hệ thống website. Mọi
+          vi phạm sẽ bị xử lý theo Quy chế và quy định của pháp luật. <br />Mọi
+          thông tin giao dịch được bảo mật, trừ trường hợp buộc phải cung cấp
+          khi Cơ quan pháp luật yêu cầu.
+        </p>
+        <b> V. Chính sách Bảo vệ thông tin cá nhân người dùng</b>
+        <p>
+            <strong>1. Mục đích và phạm vi thu thập</strong>
+            .Mục đích và phạm vi thu thập thông tin <br />Các thông tin thu thập
+            khi đăng ký tài khoản trên ứng dụng Glow: <br />- Kỹ thuật viên,
+            người cung cấp: khi kỹ thuật viên muốn có tài khoản trên Sàn Glow,
+            kỹ thuật viên đăng ký trên ứng dụng Glow, cần cung cấp đầy đủ thông
+            tin số điện thoại, mail, tên, mật khẩu đăng nhập. <br />- Người
+            dùng, người sử dụng: người dùng đăng ký tài khoản trên ứng dụng
+            Glow, cần cung cấp thông tin số điện thoại, mail, tên, mật khẩu đăng
+            nhập. Trong quá trình sử dụng: <br />- Kỹ thuật viên, người cung
+            cấp: kỹ thuật viên sẽ cung cấp thông tin của dịch vụ đang cung cấp
+            và kỹ thuật viên sẽ phải thường xuyên cập nhật địa chỉ, thông tin
+            liên hệ hiện thời <br />- Người dùng, người sử dụng: nếu người dùng
+            chọn dịch vụ tại nhà hay bất kì địa điểm nào khác, người dùng sẽ
+            phải cung cấp địa chỉ, thông tin liên hệ. <br />- Các thông tin được
+            người dùng cung cấp có thể dùng vào các mục đích sau: <br /><br />+
+            Cung cấp dịch vụ trên Ứng dụng Glow mà người dùng yêu cầu;
+            <br /><br />+ Gửi thông tin giới thiệu dịch vụ trên Ứng dụng Glow
+            đến người dùng mới; <br /><br />+ Phân tích, đánh giá và hoàn thiện
+            dịch vụ (kể cả Ứng dụng), công nghệ, quy trình; <br /><br />+ Nâng
+            cao mối tương tác và liên kết với người ; <br /><br />+ Giải quyết
+            các vấn đề tranh chấp, khiếu nại phát sinh liên quan đến việc sử
+            dụng Ứng dụng Glow; <br /><br />+ Ngăn chặn những hoạt động vi phạm
+            pháp luật tại Việt Nam. <br />- Nếu không có sự đồng ý của người
+            dùng, Glow sẽ không cung cấp bất kỳ thông tin nào liên quan đến
+            thành viên cho bên thứ ba để sử dụng với mục đích quảng cáo.
+            <br />2. Những người dùng được tiếp cận thông tin Người dùng đồng ý
+            rằng: trong trường hợp cần thiết, các cơ quan/tổ chức/cá nhân sau có
+            quyền được tiếp cận và thu thập các thông tin cá nhân của người
+            dùng, bao gồm: <br />- Kỹ thuật viên/người cung cấp <br />- Bên đơn
+            vị vận chuyển, Thanh toán <br />- Bộ phận chăm sóc khách hàng
+            <br />- Ban Quản Trị Sàn Glow <br />- Cơ quan nhà nước có thẩm quyền
+            (trong trường hợp có yêu cầu của pháp luật) <br />- Bên khiếu nại
+            chứng minh được hành vi vi phạm của Người dùng (nếu có) <br />3. Địa
+            chỉ của đơn vị chủ quản Sàn Glow: CÔNG TY CỔ PHẦN CÔNG NGHỆ BK VIỆT
+            NAM Địa chỉ: Tầng 14, số 169 Nguyễn Ngọc Vũ, Phường Trung Hoà, Quận
+            Cầu Giấy, Thành phố Hà Nội, Việt Nam Tel: 0888129100 Email:
+            binh.do@glowvietnam.com <br />4.Thời gian lưu trữ <br /><br />+ Các
+            thông tin của người dùng được lữu trữ trong một thời gian cần thiết,
+            nhằm phục vụ cho các yêu cầu người đưa ra. <br /><br />+ Người dùng
+            có thể yêu cầu Glow xóa dữ liệu cá nhân khi đã chấm dứt là người
+            dùng của Ứng dụng Glow. <br />5.Phương thức thay đổi thông tin cá
+            nhân Người được cấp một tài khoản bao gồm tên tài khoản và mật khẩu
+            để truy cập Ứng dụng Glow. Sau khi đăng nhập, người dùng có thể
+            chỉnh sửa thông tin cá nhân. Ứng dụng Glow cam kết sẽ bảo mật các
+            thông tin của người dùng, nỗ lực và sử dụng các biện pháp thích hợp
+            để bảo mật các thông tin mà thành viên cung cấp cho Ứng dụng Glow
+            trong quá trình sử dụng dịch vụ trên Ứng dụng Glow. Không bán,
+            chuyển giao dữ liệu thông tin cho bên thứ ba, khi chưa được sự cho
+            phép của người dùng ngoại trừ trường hợp theo yêu cầu cung cấp thông
+            tin người dùng của cơ quan nhà nước có thẩm quyền bằng văn bản hoặc
+            pháp luật có quy định khác. Trong trường hợp máy chủ lưu trữ thông
+            tin người dùng bị tấn công dẫn đến mất dữ liệu thành viên, Ứng dụng
+            Glow sẽ có trách nhiệm thông báo vụ việc cho cơ quan chức năng điều
+            tra xử lý kịp thời và thông báo cho thành viên được biết. Nếu xét
+            thấy thông tin của thành viên cung cấp trên Ứng dụng Glow là không
+            chính xác, Ứng dụng Glow sẽ tiến hành hủy toàn bộ những nội dung của
+            thành viên đó được đăng tải trên Ứng dụng Glow. Thành viên cần cung
+            cấp thông tin trong các trường hợp sau: <br />- Truy cập, đặt mua,
+            sử dụng dịch vụ Ứng dụng Glow; <br />- Yêu cầu báo giá, cung cấp
+            thông tin, dịch vụ hoặc hỗ trợ; <br />- Tham gia khảo sát ý kiến, dự
+            thi có thưởng, hoặc các hoạt động khuyến mại, quảng bá khác; <br />-
+            Đăng ký nhận tin thư, email quảng cáo hoặc các loại tin tức khác;
+            <br />- Đăng ký tham dự tuyển dụng, gửi hồ sơ, lý lịch; <br />- Việc
+            thu thập và sử dụng thông tin người dùng chỉ được thực hiện khi có
+            sự đồng ý của người dùng bằng cách đăng ký tài khoản trên Ứng dụng
+            Glow. <br />6. Cơ chế tiếp nhận khiếu nại liên quan đến việc thông
+            tin cá nhân bị sử dụng sai mục đích hoặc phạm vi đã thông báo Thông
+            tin cá nhân của người dùng được cam kết bảo mật tuyệt đối theo chính
+            sách bảo vệ thông tin cá nhân. Việc thu thập và sử dụng thông tin
+            của mỗi người dùng chỉ được thực hiện khi có sự đồng ý của người
+            dùng đó trừ những trường hợp pháp luật có quy định khác. Người dùng
+            có thể gửi khiếu nại trực tiếp hoặc gián tiếp đến thương nhân bằng
+            hình thức gửi thông tin đến địa chỉ công ty hoặc qua email:
+            binh.do@glowvietnam.com Bộ phận chăm sóc khách hàng của Glow sẽ hỗ
+            trợ người dùng gửi thông tin khiếu nại có liên quan đến thương nhân
+            bằng các phương thức nhanh nhất. Công ty có trách nhiệm thực hiện
+            các biện pháp kỹ thuật, nghiệp vụ để xác minh các nội dung được phản
+            ánh. Thời gian xứ lý phản ánh liên quan đến thông tin cá nhân là 7
+            ngày.
+          </p>
+          <b>VI. Bảo vệ quyền lợi của người dùng</b>
+           <p>
+            Ban quản lý Sàn yêu cầu các cá nhân khi đăng ký tài khoản, phải cung
+            cấp đầy đủ thông tin cá nhân có liên quan như: Họ và tên, địa chỉ
+            liên lạc, email, số điện thoại,...,và chịu trách nhiệm về tính pháp
+            lý của những thông tin trên. Ban quản lý Glow không chịu trách nhiệm
+            cũng như không giải quyết mọi khiếu nại có liên quan đến quyền lợi
+            của người dùng đó nếu xét thấy tất cả thông tin cá nhân của người
+            dùng đó cung cấp khi đăng ký ban đầu là không chính xác. <br />Người
+            dùng có quyền gửi khiếu nại trực tiếp và yêu cầu bồi thường đến Kỹ
+            thuật viên có liên quan trong trường hợp dịch vụ do Kỹ thuật viên
+            thực hiện cung cấp không đúng. <br />Sàn giao dịch TMĐT Glow luôn
+            đảm bảo làm trọng tài yêu cầu bồi thường cho người dùng từ Kỹ thuật
+            viên cung cấp dịch vụ nhằm để bảo quyền lợi hợp pháp cho người dùng
+            trong các trường hợp liên quan mâu thuẫn giao dịch gây ảnh hưởng đến
+            lợi ích người dùng.
+          </p>
+          <b>Quản lý thông tin xấu</b>
+          <p>
+            Kiểm soát nội dung Nội dung trên Sàn Glow là thông tin của KTV để
+            người lựa chọn KTV do đó thông tin của kỹ thuật viên phải chính xác,
+            có thật. Quy định cụ thể:
+            <br />-Ngôn ngữ: bài đăng sử dụng ngôn ngữ tiếng việt <br />-Hình
+            ảnh: Hình ảnh chụp thật, Glow khuyến khích các file ảnh có kích
+            thước tối thiểu 640x480 pixels. Ảnh đăng lên phải đảm bảo không bị
+            nhoè hoặc vỡ ảnh <br />-Giá: bắt buộc để giá, đơn vị tính VNĐ <br />
+            <strong>Hành vi bị cấm:</strong> <br />-Không đăng bài đăng có các
+            từ ngữ trái với thuần phong mỹ tục, đạo đức xã hội <br />-Đăng bài
+            không liên quan dịch vụ Spa, masage mà Sàn cung cấp với tính chất
+            quảng cáo <br />• Quảng cáo: <br />- Quảng cáo thiếu thẩm mỹ, trái
+            với truyền thống lịch sử, văn hóa, đạo đức, thuần phong mỹ tục Việt
+            Nam. <br />- Quảng cáo xúc phạm uy tín, danh dự, nhân phẩm của tổ
+            chức, cá nhân; <br />- Quảng cáo có nội dung cạnh tranh không lành
+            mạnh theo quy định của pháp luật về cạnh tranh. <br />- Quảng cáo vi
+            phạm pháp luật về sở hữu trí tuệ. <br />2. Kiểm soát nhà cung cấp,
+            Kỹ thuật viên: <br />a.Quy trình để trở thành Kỹ thuật viên/người
+            cung cấp dịch vụ (đã mô tả ở trên) <br />Bước 1: Đồng ý điều khoản
+            và chính sách của Glow <br />Bước 2: Tạo tài khoản <br />Bước 3: Ban
+            quản trị cung cấp tài khoản cho Kỹ thuật viên <br />b.Quy định đối
+            với nhà cung cấp/Kỹ thuật viên Kỹ thuật viên phải cung cấp đầy đủ
+            thông tin: Tên, địa chỉ, SĐT, mail, thông tin liên hệ trên sàn Glow.
+            <br />3. Quy trình phối hợp với các chủ thể quyền sở hữu trí tuệ rà
+            soát và gỡ bỏ các thông tin phẩm xâm phạm quyền sở hữu trí tuệ trên
+            sàn <br />Bước 1: Tiếp nhận thông tin về xâm phạm quyền Sở hữu trí
+            tuệ trên Sàn <br />Bước 2: Kiểm tra, Rà soát thông tin <br />Bước 3:
+            Xác nhận lại thông tin có hay không về việc xâm phạm quyền Sở hữu
+            trí tuệ trên Sàn <br />Bước 4: Đưa phương án giải quyết, xử lý gỡ bỏ
+            nếu có Ngoài ra, yêu cầu bên chủ thể có tài liệu chứng minh về quyền
+            sở hữu trí tuệ (văn bản, xác nhận của cơ quan có thẩm quyền Cục Sở
+            hữu trí tuệ) <br />4.Chế tài xử lý vi phạm đối với Khách hàng và Kỹ
+            thuật viên: <br />Người dùng: nhắc nhở lần 1 đối với hành vi vi phạm
+            của người dùng (cung cấp địa chỉ ảo, bom hàng, hủy đơn hàng nhiều
+            lần ban quản lý Sàn sẽ giới hạn tài khoản của người dùng trong các
+            giao dịch khác, và các chế tài khác do ban Quản lý sàn quy định
+            <br />Kỹ thuật viên: Đăng thông tin dịch vụ vi phạm quy định của Sàn
+            (như trên) : Nhắc nhở lần 1. Lần 2 Hạn chế cung cấp dịch vụ. Kỹ
+            thuật viên có hành vi vi phạm nhiều lần sẽ bị khóa tài khoản Vĩnh
+            viễn, và tước quyền Đối tác, quyền dành cho Kỹ thuật viên.
+            <br /><strong
+              >Giải quyết tranh chấp và các biện pháp xử lý với các hành vi xâm
+              phạm quyền lợi người dùng (khách hàng sử dụng dịch vụ)</strong
+            >
+            <br />- Bước 1: Khách hàng khiếu nại về dịch vụ của Kỹ thuật viên
+            qua email: binh.do@glowvietnam.com. Khách hàng có thể phản ánh trực
+            tiếp đến ban quản trị CÔNG TY CỔ PHẦN CÔNG NGHỆ BK VIỆT NAM <br />-
+            Bước 2: Bộ phận Chăm Sóc Khách Hàng của Glow sẽ tiếp nhận các khiếu
+            nại của khách hàng (người dùng), tùy theo tính chất và mức độ của
+            khiếu nại thì bên Glow, sẽ có những biện pháp cụ thể hỗ trợ khách
+            hàng (người dùng) để giải quyết tranh chấp đó. <br />- Bước 3: Trong
+            trường nằm ngoài khả năng và thẩm quyền của Glow thì Ban quản trị sẽ
+            yêu cầu khách hàng (người dùng) đưa vụ việc này ra cơ quan nhà nước
+            có thẩm quyền giải quyết theo pháp luật . Khách hàng gửi khiếu nại
+            tại địa chỉ : CÔNG TY CỔ PHẦN CÔNG NGHỆ BK VIỆT NAM<br />Địa chỉ:
+            Tầng 14, số 169 Nguyễn Ngọc Vũ, Phường Trung Hoà, Quận Cầu Giấy,
+            Thành phố Hà Nội, Việt Nam <br />Tel: 0888129100 <br />Email:
+            binh.do@glowvietnam.com <br /><stong
+              >Quy định khiếu nại, cảnh báo, tranh chấp</stong
+            >
+            <br />- Tất cả các bài đăng phải đủ các điều kiện dưới đây nếu không
+            sẽ bị khóa: <br />+ Đối tượng bị phản ánh là người dùng Glow;
+            <br />+ Sự việc phải liên quan đến bài viết của người dùng đó trên
+            Glow; <br />+ Phải có bằng chứng cụ thể; <br />+ Không có ngôn từ
+            xúc phạm, chửi tục, hăm dọa; <br />- Khi khiếu nại phải đưa ra bằng
+            chứng cụ thể, rõ ràng, đồng thời phải có : <br />+ Tài khoản của
+            người khiếu nại. <br />+ Địa chỉ liên kết dẫn chứng liên quan
+            <br />Glow tôn trọng và nghiêm túc thực hiện các quy định của pháp
+            luật về bảo vệ quyền lợi của khách hàng (người dùng). Vì vậy, để
+            nghị người dùng đăng tin dịch vụ trên sàn cung cấp đầy đủ, chính
+            xác, trung thực và chi tiết các thông tin liên quan đến dịch vụ. Mọi
+            hành vi lừa đảo, gian lận trong kinh doanh đều bị lên án và phải
+            chịu hoàn toàn trách nhiệm trước pháp luật. <br />Các Kỹ thuật viên,
+            khách hàng sẽ phải có vai trò trách nhiệm trong việc tích cực giải
+            quyết vấn đề. Đối với Kỹ thuật viên hàng cần có trách nhiệm cung cấp
+            văn bản giấy tờ chứng thực thông tin liên quan đến sự việc đang gây
+            mâu thuẫn cho khách hàng. Đối với Glow sẽ có trách nhiệm cung cấp
+            những thông tin liên quan đến khách hàng và Kỹ thuật viên nếu được
+            khách hàng hoặc người liên quan đến tranh chấp đó yêu cầu. <br />Sau
+            khi Kỹ thuật viên, khách hàng đã giải quyết xong tranh chấp phải có
+            trách nhiệm bảo lại cho ban quản trị Glow. Trong trường hợp giao
+            dịch phát sinh mâu thuẫn mà lỗi thuộc về Kỹ thuật viên, Glow sẽ có
+            biện pháp cảnh cáo, khóa tài khoản hoặc chuyển cho cơ quan pháp luật
+            có thẩm quyền tùy theo mức độ của sai phạm Glow sẽ chấm dứt và gỡ bỏ
+            toàn bộ dịch vụ của Kỹ thuật viên đó trên Glow đồng thời yêu cầu Kỹ
+            thuật viên bồi hoàn cho khách hàng thỏa đáng trên cơ sở thỏa thuận
+            với khách hàng. <br />Nếu thông qua hình thức thỏa thuận mà vẫn
+            không thể giải quyết được mâu thuẫn phát sinh tử giao dịch giữa hai
+            bên khách hàng và Kỹ thuật viên, thì một trong hai bên khách hàng và
+            Kỹ thuật viên sẽ có quyền nhờ đến cơ quan pháp luật có thẩm quyền
+            can thiệp nhằm đảm bảo lợi ích hợp pháp của các bên nhất là cho
+            khách hàng.
+          </p>
+          <b>VIII. Trách nhiệm trong trường hợp phát sinh lỗi kỹ thuật</b>
+          <p>
+            Sàn giao dịch TMĐT Glow cam kết nỗ lực đảm bảo sự an toàn và ổn định
+            của toàn bộ hệ thống kỹ thuật. Tuy nhiên, trong trường hợp xảy ra sự
+            cố do lỗi của Glow, Glow sẽ ngay lập tức áp dụng các biện pháp để
+            đảm bảo quyền lợi cho người dùng.
+            <br />Khi thực hiện các giao dịch trên Sàn, bắt buộc các người dùng
+            phải thực hiện đúng theo các quy trình hướng dẫn. <br />Ban quản lý
+            Sàn giao dịch Glow cam kết cung cấp chất lượng dịch vụ tốt nhất cho
+            các người dùng tham gia giao dịch. Trong trường hợp phát sinh lỗi kỹ
+            thuật, lỗi phần mềm hoặc các lỗi khách quan khác dẫn đến người dùng
+            không thể tham gia giao dịch được thì các người dùng thông báo cho
+            Ban quản lý Sàn giao dịch TMĐT qua địa chỉ email chúng tôi sẽ khắc
+            phục lỗi trong thời gian sớm nhất, tạo điều kiện cho các người dùng
+            tham gia Sàn giao dịch TMĐT Glow. Tuy nhiên, Ban quản lý Sàn giao
+            dịch TMĐT Glow sẽ không chịu trách nhiệm giải quyết trong trường hợp
+            thông báo của người dùng không đến được Ban quản lý, phát sinh từ
+            lỗi kỹ thuật, lỗi đường truyền, phần mềm hoặc các loại khác không do
+            Ban quản lý gây ra.
+          </p>
+          <b> IX. Quyền và nghĩa vụ của Ban quản lý website TMĐT Glow</b>
+          <p>
+            <strong>1. Quyền của Ban quản lý Sàn giao dịch TMĐT Glow</strong>
+            <br />- Sàn giao dịch TMĐT Glow sẽ tiến hành cung cấp các dịch vụ
+            cho người dùng tham gia sau khi đã hoàn thành các thủ tục và các
+            điều kiện bắt buộc mà Sàn giao dịch TMĐT Glow nêu ra. <br />- Trong
+            trường hợp có cơ sở để chứng minh người dùng cung cấp thông tin cho
+            Sàn giao dịch TMĐT Glow không chính xác, sai lệch, không đầy đủ hoặc
+            vi phạm pháp luật hay thuần phong mỹ tục Việt Nam thì Sàn giao dịch
+            TMĐT Glow có quyền từ chối, tạm ngừng hoặc chấm dứt quyền sử dụng
+            dịch vụ của người dùng. <br />- Sàn giao dịch TMĐT Glow có thể chấm
+            dứt quyền người dùng và quyền sử dụng một hoặc tất cả các dịch vụ
+            của người dùng và sẽ thông báo cho người dùng trong thời hạn ít nhất
+            là một (01) tháng trong trường hợp thành viên vi phạm các Quy chế
+            của Sàn giao dịch TMĐT Glow hoặc có những hành vi ảnh hưởng đến hoạt
+            động kinh doanh trên Sàn giao dịch TMĐT Glow . <br />- Sàn giao dịch
+            TMĐT Glow sẽ xem xét việc chấm dứt quyền sử dụng dịch vụ và quyền
+            người dùng của người dùng nếu người dùng không tham gia hoạt động
+            giao dịch và trao đổi thông tin trên Sàn giao dịch TMĐT Glow liên
+            tục trong ba (03) tháng. Nếu muốn tiếp tục trở thành thành viên và
+            được cấp lại quyền sử dụng dịch vụ thì phải đăng ký lại từ đầu theo
+            mẫu và thủ tục của Sàn giao dịch TMĐT Glow . <br />- Sàn giao dịch
+            TMĐT Glow có thể chấm dứt ngay quyền sử dụng dịch vụ và quyền người
+            dùng của thành viên nếu Sàn giao dịch TMĐT Glow phát hiện người dùng
+            đã phá sản, bị kết án hoặc đang trong thời gian thụ án, trong trường
+            hợp người dùng tiếp tục hoạt động có thể gây cho Sàn giao dịch TMĐT
+            Glow trách nhiệm pháp lý, có những hoạt động lừa đảo, giả mạo, gây
+            rối loạn thị trường, gây mất đoàn kết đối với các người dùng khác
+            của Sàn giao dịch TMĐT Glow, hoạt động vi phạm pháp luật hiện hành
+            của Việt Nam. Trong trường hợp chấm dứt quyền người dùng và quyền sử
+            dụng dịch vụ thì tất cả các chứng nhận, các quyền của người dùng
+            được cấp sẽ mặc nhiên hết giá trị và bị chấm dứt. <br />- Sàn giao
+            dịch TMĐT Glow giữ bản quyền sử dụng dịch vụ và các nội dung trên
+            Sàn giao dịch TMĐT Glow theo các quy định pháp luật về bảo hộ sở hữu
+            trí tuệ tại Việt Nam. Tất cả các biểu tượng, nội dung theo các ngôn
+            ngữ khác nhau đều thuộc quyền sở hữu của Sàn giao dịch TMĐT Glow.
+            Nghiêm cấm mọi hành vi sao chép, sử dụng và phổ biến bất hợp pháp
+            các quyền sở hữu trên. <br />- Sàn giao dịch TMĐT Glow giữ quyền
+            được thay đổi bảng, biểu giá dịch vụ và phương thức thanh toán trong
+            thời gian cung cấp dịch vụ cho người dùng theo nhu cầu và điều kiện
+            khả năng của Sàn giao dịch TMĐT Glow và sẽ báo trước cho thành viên
+            thời hạn là một (01) tháng. <br /><strong
+              >2. Nghĩa vụ và trách nhiệm của Ban quản lý Sàn giao dịch TMĐT
+              Glow</strong
+            >
+            <br />- Sàn giao dịch TMĐT Glow có trách nhiệm xây dựng, thực hiện
+            “cơ chế kiểm tra, giám sát để đảm bảo việc cung cấp thông tin của Kỹ
+            thuật viên trên sàn giao dịch thương mại điện tử được thực hiện
+            chính xác đầy đủ” theo quy định tại Khoản 4 Điều 36 Nghị định
+            52/2013/<br />NĐ-CP. <br />- Sàn giao dịch TMĐT Glow có trách nhiệm
+            có biện pháp xử lý kịp thời khi phát hiện hoặc nhận được phản ánh về
+            hành vi kinh doanh vi phạm pháp luật trên sàn giao dịch thương mại
+            điện tử. <br />- Sàn giao dịch TMĐT Glow có trách nhiệm hỗ trợ cơ
+            quan quản lý nhà nước điều tra các hành vi kinh doanh vi phạm pháp
+            luật, cung cấp thông tin đăng ký, lịch sử giao dịch và các tài liệu
+            khác về đối tượng có hành vi vi phạm pháp luật trên sàn giao dịch
+            thương mại điện tử. <br />- Sàn giao dịch TMĐT Glow có trách nhiệm
+            công bố công khai cơ chế giải quyết các tranh chấp phát sinh trong
+            quá trình giao dịch trên sàn giao dịch thương mại điện tử. Khi khách
+            hàng trên sàn giao dịch thương mại điện tử phát sinh mâu thuẫn với
+            Kỹ thuật viên hoặc bị tổn hại lợi ích hợp pháp, phải cung cấp cho
+            khách hàng thông tin về Kỹ thuật viên, tích cực hỗ trợ khách hàng
+            bảo vệ quyền và lợi ích hợp pháp của mình. <br />- Ban quản lý Sàn
+            sẽ nỗ lực tối đa và nghiêm túc loại bỏ những thông tin không trung
+            thực. <br />- Ban quản lý có nghĩa vụ tiếp nhận những phản ánh từ
+            phía người dùng, khách hàng mua, khách hàng bán. <br />- Sàn giao
+            dịch TMĐT Glow chịu trách nhiệm xây dựng Sàn giao dịch bao gồm một
+            số công việc chính như: nghiên cứu, thiết kế, mua sắm các thiết bị
+            phần cứng và phần mềm, kết nối Internet, xây dựng chính sách phục vụ
+            cho hoạt động Sàn giao dịch TMĐT Glow trong điều kiện và phạm vi cho
+            phép. Sàn giao dịch TMĐT Glow sẽ tiến hành triển khai và hợp tác với
+            các đối tác trong việc xây dựng hệ thống các dịch vụ, các công cụ
+            tiện ích phục vụ cho việc giao dịch của các thành viên tham gia và
+            người sử dụng trên Sàn giao dịch TMĐT Glow . <br />- Sàn giao dịch
+            TMĐT Glow có trách nhiệm đứng ra làm trung gian trong việc hòa giải
+            nếu xảy ra tranh chấp giữa khách hàng và Kỹ thuật viên. Sàn sẽ tiếp
+            nhận thông tin phản ánh, khiếu nại từ khách hàng và kiểm tra nội
+            dung phản ánh, khiếu nại đó. Nếu xét thấy những phản ánh đó là đúng,
+            Sàn sẽ yêu cầu Kỹ thuật viên phải giải trình về những thông tin đó.
+            Tùy theo mức độ sai phạm Sàn giao dịch TMĐT Glow sẽ có phướng án
+            giải quyết yêu cầu Kỹ thuật viên đền bù cho khách hàng, sẽ khóa tài
+            khoản của Kỹ thuật viên trên ứng dụng Glow. <br />- Sàn giao dịch
+            TMĐT Glow hịu trách nhiệm xây dựng, bổ sung hệ thống các kiến thức,
+            thông tin về: nghiệp vụ ngoại thương, thương mại điện tử, hệ thống
+            văn bản pháp luật thương mại trong nước và quốc tế, thị trường nước
+            ngoài, cũng như các tin tức có liên quan đến hoạt động của Sàn giao
+            dịch TMĐT Glow . <br />- Sàn giao dịch TMĐT Glow sẽ tiến hành các
+            hoạt động xúc tiến, quảng bá Sàn giao dịch TMĐT Glow ra thị trường
+            nước ngoài trong phạm vi và điều kiện cho phép, góp phần mở rộng,
+            kết nối đáp ứng các nhu cầu tìm kiếm bạn hàng và phát triển thị
+            trường nước ngoài của các thành viên tham gia Sàn giao dịch TMĐT
+            Glow . <br />- Sàn giao dịch TMĐT Glow sẽ cố gắng đến mức cao nhất
+            trong phạm vi và điều kiện có thể để duy trì hoạt động bình thường
+            của Sàn giao dịch TMĐT Glow và khắc phục các sự cố như: sự cố kỹ
+            thuật về máy móc, lỗi phần mềm, hệ thống đường truyền internet, nhân
+            sự, các biến động xã hội, thiên tai, mất điện, các quyết định của cơ
+            quan nhà nước hay một tổ chức liên quan thứ ba. Tuy nhiên nếu những
+            sự cố trên xảy ra nằm ngoài khả năng kiểm soát, là những trường hợp
+            bất khả kháng mà gây thiệt hại cho thành viên thì Sàn giao dịch TMĐT
+            Glow không phải chịu trách nhiệm liên đới.
+            <b> X. Quyền và trách nhiệm của các bên tham gia Sàn giao dịch TMĐT Glow</b>
+            <p>
+            <strong
+              >Quyền và trách nhiệm của đối tác (Kỹ thuật viên, nhà cung cấp...)
+              ứng dụng Glow</strong
+            >
+
+            <br /><strong
+              >a. Quyền của Kỹ thuật viên trên Sàn giao dịch TMĐT Glow</strong
+            >
+            <br />- Kỹ thuật viên sẽ được cấp một tên đăng nhập và mật khẩu
+            riêng để được vào sử dụng trong việc quản lý những giao dịch tại
+            Glow <br />- Kỹ thuật viên sẽ được nhân viên của Sàn giao dịch TMĐT
+            Glow hướng dẫn sử dụng được các công cụ, các tính năng phục vụ cho
+            việc mua hàng hoặc đăng tin rao vặt và sử dụng các dịch vụ tiện ích
+            trên Sàn giao dịch TMĐT Glow . <br />- Kỹ thuật viên có quyền đóng
+            góp ý kiến cho Sàn giao dịch TMĐT Glow trong quá trình hoạt động.
+            Các kiến nghị được gửi trực tiếp bằng thư hoặc email đến cho Sàn
+            giao dịch TMĐT Glow . <br />- Kỹ thuật viên được quyền bình luận
+            đúng sự thật về dịch vụ của Kỹ thuật viên. <br />b. Nghĩa vụ và
+            trách nhiệm của Kỹ thuật viên trên Sàn giao dịch TMĐT Glow <br />-
+            Kỹ thuật viên sẽ tự chịu trách nhiệm về bảo mật và lưu giữ mọi hoạt
+            động sử dụng dịch vụ dưới tên đăng ký, đăng nhập, mật khẩu và hộp
+            thư điện tử của mình. <br />- Kỹ thuật viên có trách nhiệm thông báo
+            kịp thời cho Sàn giao dịch TMĐT Glow về những hành vi sử dụng trái
+            phép, lạm dụng, phạm bảo mật, lưu giữ đăng ký và mật khẩu của mình
+            để hai bên cùng hợp tác xử lý. <br />- Kỹ thuật viên cam kết những
+            thông tin cung cấp cho Sàn giao dịch TMĐT Glow và những thông tin
+            đăng tải lên Sàn giao dịch TMĐT Glow là chính xác. <br />- Kỹ thuật
+            viên tự chịu trách nhiệm về nội dung, hình ảnh của thông tin Cá nhân
+            và các thông tin khác cũng như toàn bộ quá trình giao dịch với đối
+            tác trên Sàn giao dịch TMĐT Glow . <br />- Kỹ thuật viên có trách
+            nhiệm cung cấp thông tin về giao dịch hỗ trợ Sàn giao dịch TMĐT Glow
+            trong việc giải quyết tranh chấp phát sinh giữa khách hàng và bán
+            diễn ra qua Sàn. <br />- Kỹ thuật viên có trách nhiệm bồi thường
+            thiệt hại cho khách hàng chứng minh được lỗi đó thuộc về Kỹ thuật
+            viên. <br />- Kỹ thuật viên cam kết, đồng ý không sử dụng dịch vụ
+            của Sàn giao dịch TMĐT Glow vào những mục đích bất hợp pháp, lừa
+            đảo, đe doạ, thăm dò thông tin bất hợp pháp, phá hoại, tạo ra và
+            phát tán virus gây hư hại tới hệ thống, cấu hình, truyền tải thông
+            tin của Sàn giao dịch TMĐT Glow hay sử dụng dịch vụ của mình vào mục
+            đích đầu cơ, lũng đoạn thị trường tạo những đơn đặt hàng, chào hàng
+            giả, kể cả phục vụ cho việc phán đoán nhu cầu thị trường. Trong
+            trường hợp vi phạm thì thành viên phải chịu trách nhiệm hành vi của
+            mình trước pháp luật. <br />- Kỹ thuật viên cam kết không được thay
+            đổi, chỉnh sửa, sao chép, truyền bá, phân phối, cung cấp và tạo
+            những công cụ tương tự của dịch vụ do Sàn giao dịch TMĐT Glow cung
+            cấp cho một bên thứ ba nếu không được sự đồng ý của Sàn giao dịch
+            TMĐT Glow trong Quy định này. <br />- Kỹ thuật viên không được hành
+            động gây mất uy tín của Sàn giao dịch TMĐT Glow dưới mọi hình thức
+            như gây mất đoàn kết giữa các người dùng bằng cách sử dưới mọi hình
+            thức như gây mất đoàn kết giữa các người bằng cách sử dụng tên đăng
+            ký thứ hai, thông qua một bên dụng tên đăng ký thứ ba hoặc tuyên
+            truyền, phổ biến những thông tin không có lợi cho uy tín của Sàn
+            giao dịch TMĐT Glow. <br />- Kỹ thuật viên có nghĩa vụ cung cấp
+            thông tin về tình hình kinh doanh của mình khi có yêu cầu của cơ
+            quan nhà nước có thẩm quyền để phục vụ hoạt động thống kê thương mại
+            điện tử; tuân thủ quy định của pháp luật về thanh toán, quảng cáo,
+            khuyến mại, bảo vệ quyền sở hữu trí tuệ, bảo vệ quyền lợi người tiêu
+            dùng và các quy định của pháp luật có liên quan khác khi cung ứng
+            dịch vụ trên sàn giao dịch thương mại điện tử. <br />- Kỹ thuật viên
+            và Khách hàng phải chịu trách nghiệm theo quy định của pháp luật
+            Việt Nam khi có những hành vi nhạy cảm, quá khích và hành vi vi phạm
+            luật pháp. Sàn TMĐT Glow miễn nhiễm trách nhiệm với những hành vi
+            của Khách hàng với Kỹ thuật viên; Kỹ thuật viên với hách hàng. Trong
+            trường hợp xảy ra kiện tụng, tranh chấp, khách hàng và đối tác sẽ
+            làm việc trực tiếp với nhau, Sàn TMĐT Glow sẽ cung cấp các thông tin
+            cần thiết khi được yêu cầu từ cơ quan có thẩm quyền. 1. 2. Quyền và
+            trách nhiệm của người dùng (người , người sử dụng dịch vụ…) trên
+            Glow a. Quyền của khách hàng tham gia Sàn giao dịch TMĐT Glow
+            <br />- Khi đăng ký trở thành Người dùng, khách hàng sẽ được khởi
+            tạo tài khoản để tham gia tận hưởng các ưu đãi nằm trong hệ thống
+            của Glow. <br />- Khách hàng sẽ được cấp một tên đăng ký và mật khẩu
+            riêng để được vào sử dụng các dịch vụ, quản lý tài khoản và các
+            thông tin lịch sử sử dụng ưu đãi của mình trong hệ thống Glow.
+            <br />- Khách hàng sẽ có thể được hưởng các chính sách ưu đãi do
+            TMĐT Glow hay các đối tác thứ ba cung cấp trên TMĐT Glow. Các chính
+            sách ưu đãi này sẽ được Ứng dụng TMĐT Glow giải quyết (nếu có) và sẽ
+            được đăng tải trực tiếp trên Ứng dụng TMĐT Glow hoặc được gửi trực
+            tiếp đến Khách hàng. <br />- Khách hàng có quyền đóng góp ý kiến cho
+            TMĐT Glow trong quá trình hoạt động. Các kiến nghị được gửi trực
+            tiếp bằng thư hoặc email đến cho Ứng dụng Glow. <br />- Khách hàng
+            có quyền gửi khiếu nại trực tiếp và yêu cầu bồi thường đến Glow
+            trong trường hợp dịch vụ của Kỹ thuật viên thực hiện cung cấp không
+            đảm bảo chất lượng như các thông tin đã công bố. b.Trách nhiệm của
+            khách hàng tham gia Sàn giao dịch TMĐT Glow <br />- Khách hàng sẽ tự
+            chịu trách nhiệm về bảo mật, lưu giữ và mọi hoạt động sử dụng dịch
+            vụ dưới tên đăng ký, mật khẩu và hộp thư điện tử của mình. <br />-
+            Khách hàng và Kỹ thuật viên phải chịu trách nghiệm theo quy định của
+            pháp luật Việt Nam khi có những hành vi nhạy cảm, quá khích và hành
+            vi vi phạm luật pháp. Sàn TMĐT Glow miễn nhiễm trách nhiệm với những
+            hành vi của Khách hàng với Kỹ thuật viên; Kỹ thuật viên với hách
+            hàng. Trong trường hợp xảy ra kiện tụng, tranh chấp, khách hàng và
+            đối tác sẽ làm việc trực tiếp với nhau, Sàn TMĐT Glow sẽ cung cấp
+            các thông tin cần thiết khi được yêu cầu từ cơ quan có thẩm quyền.
+            <br />- Khách hàng có trách nhiệm thông báo kịp thời cho Ứng dụng
+            TMĐT Glow về những hành vi sử dụng trái phép, lạm dụng, vi phạm bảo
+            mật, lưu giữ tên đăng ký và mật khẩu của mình để hai bên cùng hợp
+            tác xử lý. <br />- Khách hàng cam kết những thông tin cung cấp cho
+            Sàn giao dịch TMĐT Glow và những thông tin đang tải lên Sàn giao
+            dịch TMĐT Glow là chính xác. <br />- Khách hàng có trách nhiệm cung
+            cấp thông tin về giao dịch hỗ trợ Sàn giao dịch TMĐT Glow trong việc
+            giải quyết tranh chấp phát sinh giữa Khách hàng và Kỹ thuật viên
+            diễn ra qua Sàn. <br />- Khách hàng cam kết, đồng ý không sử dụng
+            dịch vụ của Sàn giao dịch TMĐT Glow vào những mục đích bất hợp pháp,
+            không hợp lý, lừa đảo, đe doạ, thăm dò thông tin bất hợp pháp, phá
+            hoại, tạo ra và phát tán virus gây hư hại tới hệ thống, cấu hình,
+            truyền tải thông tin của Sàn giao dịch TMĐT Glow hay sử dụng dịch vụ
+            của mình vào mục đích đầu cơ, lũng đoạn thị trường tạo những đơn đặt
+            hàng, chào hàng giả, kể cả phục vụ cho việc phán đoán nhu cầu thị
+            trường. Trong trường hợp vi phạm thì thành viên phải chịu trách
+            nhiệm về các hành vi của mình trước pháp luật. <br />- Khách hàng
+            cam kết không được thay đổi, chỉnh sửa, sao chép, truyền bá, phân
+            phối, cung cấp và tạo những công cụ tương tự của dịch vụ do Sàn giao
+            dịch TMĐT Glow cung cấp cho một bên thứ ba nếu không được sự đồng ý
+            của Sàn giao dịch TMĐT Glow trong Quy định này. <br />- Khách hàng
+            không được hành động gây mất uy tín của Sàn giao dịch TMĐT Glow dưới
+            mọi hình thức như gây mất đoàn kết giữa các người dùng bằng cách sử
+            dụng tên đăng ký thứ hai, thông qua một bên thứ ba hoặc tuyên
+            truyền, phổ biến những thông tin không có lợi cho uy tín của Sàn
+            giao dịch TMĐT Glow.
+            <b>IX. Điều khoản áp dụng</b>
+            <p>Quy chế của Sàn giao dịch TMĐT Glow chính thức có hiệu lực thi hành kể
+        từ ngày ký Quyết định ban hành kèm theo Quy chế này. Sàn giao dịch TMĐT
+        Glow có quyền và có thể thay đổi Quy chế này bằng cách thông báo lên Sàn
+        giao dịch TMĐT Glow cho người dùng biết. Việc người dùng tiếp tục sử
+        dụng dịch vụ sau khi Quy chế sửa đổi được công bố và thực thi thì đồng
+        nghĩa với việc người dùng đã chấp nhận Quy chế sửa đổi này. Quy chế hoạt
+        động sẽ được Glow cập nhật bổ sung liên tục và thông báo trước khi thực
+        hiện. Quy chế có hiệu lực thi hành sau 5 ngày làm việc khi có thông báo
+        thay đổi. Người dùng tham gia Glow có trách nhiệm tuân theo quy chế hiện
+        hành khi giao dịch trên website.</p>
+        <b>XII. Điều khoản cam kết</b>
+        <p>Mọi thành viên và đối tác/Kỹ thuật viên khi sử dụng Glow làm giao dịch
+        mua bán trực tuyến thì đồng nghĩa việc các bên có liên quan đã chấp
+        thuận tuân theo quy chế này. Mọi thắc mắc của khách hàng xin vui lòng
+        liên hệ với Glow theo thông tin dưới đây để được giải đáp.</p>
+        <h1>Hỗ trợ khách hàng</h1>
+        Sàn giao dịch TMĐT Glow
+        <br />• Địa chỉ: Tầng 14, số 169 Nguyễn Ngọc Vũ, Phường Trung Hoà, Quận
+        Cầu Giấy, Thành phố Hà Nội, Việt Nam <br />• Điện thoại: 0888129100
+        <br />• Email: binh.do@glowvietnam.com <br />ĐẠI DIỆN CÔNG TY (ký tên,
+        đóng dấu)
+            

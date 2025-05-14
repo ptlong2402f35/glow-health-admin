@@ -1,0 +1,54 @@
+{
+    "blog_List" : [
+        {
+            "img":"./static/img/blog_title_1.jpg",
+            "title":"Chiết khấu Taobao, Tmall là gì ?",
+            "sub_title":"Bạn có biết, 90% nhà cung cấp trên Taobao, Tmall áp dụng chương trình hoàn tiền cho khách khi mua hàng."
+        },
+        {
+            "img":"./static/img/blog_title_2.jpg",
+            "title":"Hướng dẫn nhận chiết khấu Taobao, Tmall",
+            "sub_title":"Chỉ 4 bước để nhận hoàn tiền tới 100 tệ (300.000vnđ) khi mua hàng qua Taobao, Tmall"
+        },
+        {
+            "img":"./static/img/blog_title_3.jpg",
+            "title":"Taobao là gì ?",
+            "sub_title":"Sàn thương mại điện tử lớn nhất thế giới với 1 tỷ sản phẩm. Cùng Orderdi Logistics khám phá Taobao"
+        },
+        {
+            "img":"./static/img/blog_title_4.jpg",
+            "title":"TMALL LÀ GÌ ?",
+            "sub_title":"Tmall là một trang thương mại điện tử chuyên về các mặt hàng nội địa Trung, trực thuộc tập đoàn Alibaba. Tmall ra đời vào tháng 4 năm 2008 dưới tên gọi cũ là Taobao Mall."
+        },
+        {
+            "img":"./static/img/blog_title_5.jpg",
+            "title":"CÁCH TẠO TÀI KHOẢN TAOBAO DƯỚI 3 PHÚT",
+            "sub_title":"Chỉ 3 phút là bạn đã có thể sẵn sàng trở thành bậc thầy mua sắm trên Taobao. Cách đăng ký dành cho người không biết tiếng Trung"
+        },
+        {
+            "img":"./static/img/blog_title_6.jpg",
+            "title":"VIP MEMBER CỦA TAOBAO LÀ GÌ ?",
+            "sub_title":"Người mua sắm trung thành trên Taobao được ưu đãi hàng trăm tệ, giảm giá mọi thương hiệu…Đó chỉ là một phần của chế độ Vip Member Taobao. Đọc thêm để hiểu hơn về chế độ này."
+        }
+    ],
+    "blog_banner_img":[
+        {
+            "img":"./static/img/blog_banner_1.jpg"
+        },
+        {
+            "img":"./static/img/blog_banner_2.jpg"
+        },
+        {
+            "img":"./static/img/blog_banner_3.jpg"
+        },
+        {
+            "img":"./static/img/blog_banner_4.jpg"
+        },
+        {
+            "img":"./static/img/blog_banner_5.jpg"
+        },
+        {
+            "img":"./static/img/blog_banner_6.jpg"
+        }
+    ]
+}

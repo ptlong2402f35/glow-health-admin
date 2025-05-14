@@ -1,0 +1,144 @@
+<b>A. Thu thập Thông tin Cá nhân </b><br/>Thông tin Cá nhân là thông tin về bạn mang tính nhận dạng, bao gồm nhưng không giới hạn tên, số chứng
+                minh thư nhân dân, số giấy khai sinh, số hộ chiếu, quốc tịch, địa chỉ, số điện thoại, số fax, thông tin
+                ngân hàng, thông tin thẻ tín dụng, dân tộc, giới tính, ngày sinh, tình trạng hôn nhân, tình trạng cư
+                trú, nền tảng giáo dục, tình trạng tài chính, sở thích cá nhân, địa chỉ thư điện tử (email) của bạn,
+                nghề nghiệp, định danh của bạn trong Glow, thông tin của bạn trong Glow, ngành làm
+                việc của bạn, bất kỳ thông tin nào về bạn mà bạn đã cung cấp cho Glow trong các đơn đăng ký,
+                đơn xin gia nhập hoặc bất kỳ đơn tương tự nào và/hoặc bất kỳ thông tin nào về bạn đã được hoặc sẽ được
+                Glow thu thập, lưu trữ, sử dụng và xử lý theo thời gian và bao gồm các thông tin cá nhân nhạy
+                cảm như các dữ liệu về sức khỏe, tôn giáo hoặc tín ngưỡng tương tự khác.</br>
+								<b>B. Mục đích và phạm vi sử dụng thông tin</b>
+								<br />
+								Phạm vi thu thập thông tin
+								<br />
+								<p>Thông tin Cá nhân’ là thông tin về người dùng mang tính nhận dạng, bao gồm nhưng không giới hạn tên,
+                    số chứng minh thư nhân dân, số giấy khai sinh, số hộ chiếu, quốc tịch, địa chỉ, số điện thoại, số
+                    fax, thông tin ngân hàng, thông tin thẻ tín dụng, dân tộc, giới tính, ngày sinh, tình trạng hôn
+                    nhân, tình trạng cư trú, nền tảng giáo dục, tình trạng tài chính, sở thích cá nhân, địa chỉ thư điện
+                    tử (email) của người dùng, nghề nghiệp, định danh của người dùng trong Glow, thông tin của
+                    người dùng trong Glow, ngành làm việc của người dùng, bất kỳ thông tin nào về người dùng mà
+                    người dùng đã cung cấp cho Glow trong các đơn đăng ký, đơn xin gia nhập hoặc bất kỳ đơn
+                    tương tự nào và/hoặc bất kỳ thông tin nào về người dùng đã được hoặc sẽ được Glow thu thập,
+                    lưu trữ, sử dụng và xử lý theo thời gian và bao gồm các thông tin cá nhân nhạy cảm như các dữ liệu
+                    về sức khỏe, tôn giác hoặc tín ngưỡng tương tự khác</p>
+                <p>Việc người dùng cung cấp Thông tin Cá nhân của người dùng là hoàn toàn tự nguyện. Tuy nhiên, nếu
+                    người dùng không cung cấp cho Glow Thông tin Cá nhân của người dùng, Glow sẽ không
+                    thể xử lý Thông tin Cá nhân của người dùng cho các Mục đích và Mục đích Bổ sung như được nêu dưới
+                    đây</p>
+                <p>
+                    Nếu người dùng là một đại lý, người bán hàng hoặc nhà cung cấp dịch vụ, việc cung cấp Thông tin Cá
+                    nhân của người dùng là bắt buộc, và việc không cung cấp Thông tin Cá nhân của người dùng sẽ là hành
+                    vi vi phạm pháp luật hoặc các quy định pháp lý, và có thể khiến Glow không thể hợp tác với
+                    người dùng để cung cấp các dịch vụ hoặc sản phẩm hoặc thực hiện các khoản thanh toán cho người dùng
+                    về sản phẩm hoặc dịch vụ mà người dùng cung cấp
+                </p>
+                <p>Bên cạnh những Thông tin Cá nhân người dùng trực tiếp cung cấp cho Glow, Glow có
+                    thể thu thập Thông tin Cá nhân của người dùng từ nhiều nguồn khác nhau như</p>
+                <div>
+                    <p>
+                        Điền các đơn đăng ký hoặc đơn xin gia nhập hoặc các đơn tương tự khác;
+                    </p>
+                    <p>
+
+                        Từ các nguồn công khai khác như danh bạ;
+                    </p>
+                    <p>
+
+                        Từ các trang mạng xã hội của Glow, nếu người dùng theo dõi, thích hoặc người dùng là
+                        fan
+                        của các trang đó;
+                    </p>
+                    <p>
+
+                        Từ các tổ chức báo cáo tín dụng;
+                    </p>
+                    <p>
+
+                        Khi người dùng tương tác và giao tiếp với Glow tại bất kỳ sự kiện hay hoạt động nào;
+                    </p>
+                    <p>
+
+                        Khi người dùng tham gia các cuộc thi do Glow tổ chức
+                    </p>
+                    <p>
+
+                        Từ nhiều thực thể hoặc đơn vị thuộc Glow; hoặc
+                    </p>
+                    <p>
+                        Qua việc sử dụng các trang web của Glow, bao gồm tất cả các trang web do Glow
+                        điều
+                        hành và đặt dưới tên thương hiệu tương ứng (“các Trang Web”). Thông tin Cá nhân của người dùng
+                        có
+                        thể được thu thập từ tập cookies được sử dụng trên các Trang Web.
+                    </p>
+                </div>
+								<h2>Mục đích chung</h2>
+								                <p>
+                    Để trả lời các câu hỏi, bình luận và phản hồi của người dùng;
+                </p>
+                <p>
+                    Để liên lạc với người dùng về bất kỳ mục đích nào được liệt kê tại Thông báo này;
+                </p>
+                <p>
+                    Để phục vụ mục đích quản lý nội bộ như kiểm toán, phân tích dữ liệu, lưu trữ cơ sở dữ liệu;
+                </p>
+                <p>
+                    Để phục vụ mục đích phát hiện, ngăn chặn và truy tố tội phạm;
+                </p>
+                <p>
+                    Để giúp Glow tuân thủ các nghĩa vụ theo quy định của pháp luật;
+                </p>
+								<h2> Đối với khách hàng của các dịch vụ do Glow cung cấp:</h2>
+								<p>
+                    Để thực hiện các nghĩa vụ của Glow theo bất kỳ thỏa thuận nào được ký kết với khách hàng;
+                </p>
+                <p>
+                    Để cung cấp cho khách hàng bất kỳ dịch vụ nào mà khách hàng yêu cầu;
+                </p>
+                <p>
+                    Để xử lý các đăng ký của khách hàng và để cung cấp các dịch vụ cho khách hàng;
+                </p>
+                <p>
+                    Khi khách hàng yêu cầu tải xuống và sử dụng ứng dụng Glow (“Ứng dụng”), hoặc để xử lý yêu
+                    cầu của khách hàng, để cung cấp Ứng dụng cho khách hàng và để cung cấp cho khách hàng giấy phép sử
+                    dụng Ứng dụng;
+                </p>
+                <p>
+                    Để xử lý việc tham gia của khách hàng vào bất kỳ sự kiện, hoạt động, nhóm trọng điểm, nghiên cứu,
+                    cuộc thi, chương trình khuyến mại, cuộc bình chọn, khảo sát hoặc sản phẩm nào;
+                </p>
+                <p>
+                    Để xử lý, quản lý hoặc xác minh việc đăng ký theo dõi của khách hàng đối với Glow và để
+                    cung cấp cho khách hàng các lợi ích dành cho người theo dõi;
+                </p>
+                <p>
+                    Để xác nhận các đặt hàng của khách hàng và xử lý các thanh toán liên quan đến bất kỳ sản phẩm hay
+                    dịch vụ nào mà khách hàng đã yêu cầu;
+                </p>
+                <p>
+                    Để hiểu và phân tích việc kinh doanh của chúng tôi cũng như các nhu cầu và sở thích của khách hàng;
+                </p>
+                <p>
+                    Để phát triển, tăng cường, và cung cấp các sản phẩm và dịch vụ để đáp ứng được nhu cầu của khách
+                    hàng;
+                </p>
+                <p>
+                    Để xử lý việc trao đổi hoặc trả lại sản phẩm;
+                </p>
+                <p>
+                    Đối với khách hàng là đại lý, người bán hàng, nhà cung cấp, đối tác, nhà thầu hoặc nhà cung cấp dịch
+                    vụ:
+                </p>
+                <p>
+                    Để phục vụ mục đích hợp tác với khách hàng để cung cấp dịch vụ hoặc sản phẩm;
+                </p>
+                <p>
+                    Để tạo điều kiện hoặc cho phép bất kỳ sự kiểm tra nào mà Glow có thể yêu cầu để hợp tác với
+                    khách hàng;
+                </p>
+                <p>
+                    Để xử lý các thanh toán liên quan đến bất kỳ sản phẩm hoặc dịch vụ nào mà khách hàng cung cấp;
+                </p>
+                <p>
+                    Để liên lạc với khách hàng hoặc với Glow của khách hàng.
+                </p>
